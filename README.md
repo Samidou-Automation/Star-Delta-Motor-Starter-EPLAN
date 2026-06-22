@@ -103,6 +103,5 @@ The output documentation generated from EPLAN is structured as follows:
 ## 🚀 Skills Demonstrated
 
 * **Advanced Industrial Control Logic:** Designing fail-safe hardware interlocking schemas (NC cross-wired auxiliary pairs) preventing dangerous concurrent firing of Star and Delta loops.
-* **Industrial Thermal Management:** Implementation of proactive forced-air cabinet calculations (low-end filter intakes mapped to high-end active fan exhaust paths in the **Rittal AX** layout).
 * **Digital Twin Engineering:** Prototyping physical mechanical constraints virtually using authentic **Rittal** and **Phoenix Contact** templates to achieve zero manufacturing wire waste and ensure accurate enclosure hole drilling patterns.
 * **Normative Engineering Compliance:** Executing electrical paths based strictly on unified wire gauge colors and global grounding criteria (protective earth continuity to mounting rails, door frameworks, and incoming field motor casings).
